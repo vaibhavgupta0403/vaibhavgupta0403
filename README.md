@@ -1,4 +1,4 @@
-[![MasterHead](puma_social_v1.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta0403&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta0403" /> </p>
 <img align="right" alt="NeuralNetworksDemonstration" width="350" height="350"  src="render machine learning GIF by xponentialdesign - Find & Share on GIPHY.gif">
