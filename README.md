@@ -1,10 +1,10 @@
 
 <h1 align="center">👋 Hi, I'm Vaibhav Gupta</h1>
-<p> Hi, I am Vaibhav Gupta. I am an Electronics Engineering student at IIT BHU Varanasi (ECE'25). I am fascinated by technology. I find myself passionate about Machine Learning as well as Robotics. 🤖 </p>
+<p> Hi, I am Vaibhav Gupta. I am an Electronics Engineering student at IIT BHU Varanasi (ECE'25). I am fascinated by technology. I find myself passionate about machine learning and back-end development. 🤖 </p>
 <!-- <img align="right" alt="NeuralNetworksDemonstration" width="350" height="350"  src="render machine learning GIF by xponentialdesign - Find & Share on GIPHY.gif"> -->
 
 
-- 🌱 I am currently learning **Maths and Theories behind SOTA Models.**
+- 🌱 I am currently learning **Maths and Theories behind SOTA Models  .**
 
 - 💬 Ask me about **Literally Anything ( Preferable Technical :))**
 
