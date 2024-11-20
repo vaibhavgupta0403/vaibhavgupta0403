@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Vaibhav Gupta</h1>
-<p> Hi, I am Vaibhav Gupta. I am an Electronics Engineering student at IIT BHU Varanasi (ECE'25). I am fascinated by technology. I find myself passionate about machine learning and back-end development. 🤖 </p>
-<!-- <img align="right" alt="NeuralNetworksDemonstration" width="350" height="350"  src="render machine learning GIF by xponentialdesign - Find & Share on GIPHY.gif"> -->
+<p> Hi, I am Vaibhav Gupta. I am an Electronics Engineering student at IIT BHU Varanasi (ECE'25). I am fascinated by technology. 🤖 </p>
+<!-- <img align="right" alt="NeuralNetworksDemonstration" width="350" height="350"  src="render machine learning GIF by exponential design - Find & Share on GIPHY.gif"> -->
 
 
 - 🌱 I am currently learning **Maths and Theories behind SOTA Models  .**
